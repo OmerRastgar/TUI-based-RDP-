@@ -1,0 +1,17 @@
+# Core TUI rendering (Windows specific)
+windows-curses
+
+# Screen Capture
+mss
+
+# Mouse Tracking & Input
+pyautogui
+
+# Image Processing
+pillow
+
+# Windows UI Automation (Reading text from windows)
+uiautomation
+
+# Giant ASCII Text Rendering
+pyfiglet
