@@ -10,6 +10,8 @@ The Goal: To allow full remote desktop control over extremely **low-bandwidth co
 
 Current Focus: Solves the "**Visibility**" problem—how to read screen content when a video stream is too slow or blurry.
 
+![WhatsApp Image 2025-12-16 at 6 28 05 PM](https://github.com/user-attachments/assets/0125bee5-7c18-4d25-b2a1-94211338ae78)
+
 ---
 
 ## 🚀 Current Status: Stage 1 (The "Inspector")
